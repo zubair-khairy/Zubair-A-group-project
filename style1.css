@@ -1,1 +1,8 @@
 /* this is our project css */
+
+h1{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+
+}
